@@ -1,0 +1,15 @@
+{
+  "name": "06-nodebr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "commander": "^6.2.0"
+  }
+}
